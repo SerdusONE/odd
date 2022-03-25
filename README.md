@@ -1,4 +1,4 @@
-# odd
+# odd library Python
 
 this is a simple python library to let you know if the number you passed is odd or even
 
